@@ -1,14 +1,14 @@
 // Add your code here
 let firstName="Gift"
 let lastName="Chinwendu"
-let fullName="Ahanonu Gift Chinwendu" 
+let fullName="Gift Chinwendu" 
 let fullSubjectName=firstName+''+lastName
-let introduction='Hello, my name is'+fullName
-let myEyesColor="My eye color is black"
-let myHairColor="My hair color is black"
-let myNumberOfSiblings="I have 2 siblings"
-let myFavouriteFood="My favourite food is Rice"
-let myFavouriteColor="My favourite color is Purple"
+let introduction='Hello, my name is'+ ' '+fullName
+let myEyesColor="black"
+let myHairColor="black"
+let myNumberOfSiblings="2"
+let myFavouriteFood="Rice"
+let myFavouriteColor="Purple"
 // Don't edit or touch the code below here!
 // Don't edit or touch the code below here!
 // Don't edit the code below here!

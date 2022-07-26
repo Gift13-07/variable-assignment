@@ -1,0 +1,21 @@
+#introduction {
+    color: aquamarine;
+    background-color: tomato;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 1em;
+    padding: 0.5em;
+  }
+  
+  #my-favourite-color {
+    color: white;
+    background-color: purple;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 1em;
+    padding: 0.5em;
+  }
+  section{
+    background-color: yellow;
+    padding: 10px;
+  }
